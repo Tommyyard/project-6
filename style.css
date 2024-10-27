@@ -171,7 +171,8 @@ a:hover {
 
     /* layer1 */
     .layer1 {
-        background: url(foto/photo_6120404160479348588_y.jpg);    
+        background: url(foto/photo_6120404160479348588_y.jpg);
+        background-size: cover;
     }
 
     .layer1 h1, p, button {
